@@ -5,7 +5,7 @@ A simple Python tool with a GUI for converting **MXF files** using **VLC's trans
 ---
 
 ## Features
-- Batch conversion of MXF files (or other formats supported by VLC).
+- Batch conversion of MXF files to formats supported by VLC.
 - Uses VLC's built-in transcoding profiles.
 - Allows editing of VLC profile strings through a simple editor.
 - Customizable output file names.
