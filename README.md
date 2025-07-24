@@ -5,7 +5,7 @@ A simple Python tool with a GUI for converting **MXF files** using **VLC's trans
 ---
 
 ## Features
-- Batch conversion of MXF files.
+- Batch conversion of MXF files (or other formats supported by VLC).
 - Uses VLC's built-in transcoding profiles.
 - Allows editing of VLC profile strings through a simple editor.
 - Customizable output file names.
@@ -25,6 +25,10 @@ MFXBatchConverter/
 ├── helpers.py # Utility functions
 └── README.md # Project documentation
 
+yaml
+Copy
+Edit
+
 ---
 
 ## Requirements
@@ -37,11 +41,15 @@ How to Run
 Clone this repository:
 
 bash
+Copy
+Edit
 git clone <your-repo-url>
 cd mxf_to_mp4_converter
 Run the application:
 
 bash
+Copy
+Edit
 python main.py
 Usage
 Select an input folder containing MXF files.
