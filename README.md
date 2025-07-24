@@ -15,15 +15,15 @@ A simple Python tool with a GUI for converting **MXF files** using **VLC's trans
 ---
 
 ## Project Structure
-MFXBatchConverter/
-│
-├── main.py # Application entry point
-├── gui.py # Main GUI code
-├── converter.py # Conversion logic
-├── vlc_utils.py # VLC detection and profile handling
-├── profile_editor.py # Profile string editor popup
-├── helpers.py # Utility functions
-└── README.md # Project documentation
+  MFXBatchConverter/
+  │
+  ├── main.py # Application entry point
+  ├── gui.py # Main GUI code
+  ├── converter.py # Conversion logic
+  ├── vlc_utils.py # VLC detection and profile handling
+  ├── profile_editor.py # Profile string editor popup
+  ├── helpers.py # Utility functions
+  └── README.md # Project documentation
 
 ---
 
