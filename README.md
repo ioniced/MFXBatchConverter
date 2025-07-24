@@ -16,7 +16,7 @@ A simple Python tool with a GUI for converting **MXF files** using **VLC's trans
 
 ## Project Structure
 ```
-MFXbatchCconverter/
+MFXBatchConverter/
 │
 ├── main.py             # Application entry point
 ├── gui.py              # Main GUI code
@@ -42,8 +42,8 @@ MFXbatchCconverter/
 - Clone this repository:
   ```bash
   pip install tk
-  git clone <your-repo-url>
-  cd mxf_to_mp4_converter
+  git clone https://github.com/ioniced/MFXBatchConverter
+  cd MFXBatchConverter
 - Run the application:
   ```bash
   python main.py
