@@ -25,10 +25,6 @@ MFXBatchConverter/
 ├── helpers.py # Utility functions
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 ## Requirements
@@ -37,21 +33,22 @@ Edit
 - Python packages:
   ```bash
   pip install tk
-How to Run
-Clone this repository:
 
-bash
-Copy
-Edit
-git clone <your-repo-url>
-cd mxf_to_mp4_converter
-Run the application:
+---
 
-bash
-Copy
-Edit
-python main.py
-Usage
+## How to Run
+- Clone this repository:
+  ```bash
+  pip install tk
+  git clone <your-repo-url>
+  cd mxf_to_mp4_converter
+- Run the application:
+  ```bash
+  python main.py
+
+---
+
+## Usage
 Select an input folder containing MXF files.
 
 Select an output folder.
